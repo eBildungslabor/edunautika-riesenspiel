@@ -1,2 +1,3 @@
-# edunautika-riesenspiel
-Die Inhalte des kollaborativen Edunautika Riesenspiels vom 19. April 2024
+# edunautika RIESENSPIEL
+
+Bei der [edunautika 2024](https://edunautika.de) haben wir für den Freitagnachmittag das kollaborative edunautika RIESENSPIEL konzipiert. Wir werden die Inhalte nach der Edunautika zur Weiternutzung aufbereiten.
